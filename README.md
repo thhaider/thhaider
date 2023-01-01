@@ -1,5 +1,5 @@
 - I’m Haider Shah, a 1st year CSBS Student
-- I’m currently learning Prograamming for Problem Solving and these repositories contains all of my codes of C and Python.
+- I’m currently learning Programming for Problem Solving and these repositories contains all of my codes of C and Python.
 - Email : haiderjeelani2@gmail.com
 
 <!---
