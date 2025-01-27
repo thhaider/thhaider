@@ -1,5 +1,5 @@
-- I’m Haider Shah, a 1st year CSBS Student
-- I’m currently learning Programming for Problem Solving and these repositories contains all of my codes of C and Python.
+- I’m Haider Shah,
+- I’m currently a CSBS student in SRMIST and these repositories contains all of my codes of C Python and Java
 - Email : haiderjeelani2@gmail.com
 
 <!---
